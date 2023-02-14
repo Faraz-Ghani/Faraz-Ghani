@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz-ghani&label=Profile%20views&color=0e75b6&style=flat" alt="faraz-ghani" /> </p>
 
-- 🔭 I’m currently working on **Game developments**
+- 🔭 I’m currently working on **Game development**
 
 - 🌱 I’m currently learning **Flutter and C#**
 
