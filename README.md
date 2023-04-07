@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C# and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://faraz-ghani.itch.io](https://faraz-ghani.itch.io)
+- 👨‍💻 All of my projects are available at [itch.io](https://faraz-ghani.itch.io)
 
 - 💬 Ask me about **Unity**
 
