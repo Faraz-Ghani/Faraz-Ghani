@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Game Development**
 
-- 🌱 I’m currently learning **C# and Flutter**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [itch.io](https://faraz-ghani.itch.io)
 
