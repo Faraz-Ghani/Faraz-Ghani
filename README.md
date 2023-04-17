@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [itch.io](https://faraz-ghani.itch.io)
 
-- 💬 Ask me about **Unity**
+- 💬 Ask me about **Unity Game Engine**
 
 - 📫 How to reach me **Farazghani12@gmail.com**
 
