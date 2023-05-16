@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences [farazghani.co](farazghani.co)
 
-- ⚡ Fun fact **I**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
