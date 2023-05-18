@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my information is available on [https://farazghani.co](My website)
+- 👨‍💻 All of my information is available on [My Website](https://farazghani.co)
 
-- 📝 I regularly write articles on [https://medium.com/@farazghani](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@farazghani)
 
 - 💬 Ask me about **Unity & Game Development**
 
