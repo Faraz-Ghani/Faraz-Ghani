@@ -9,15 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://faraz-ghani.itch.io](https://faraz-ghani.itch.io)
+- 👨‍💻 All of my information is available on [https://farazghani.co](My website)
 
-- 📝 I regularly write articles on [https://medium.com/@farazghani](https://medium.com/@farazghani)
+- 📝 I regularly write articles on [https://medium.com/@farazghani](Medium)
 
 - 💬 Ask me about **Unity & Game Development**
 
 - 📫 How to reach me **Farazghani12@gmail.com**
-
-- 📄 Know about my experiences [farazghani.co](farazghani.co)
 
 
 <h3 align="left">Connect with me:</h3>
